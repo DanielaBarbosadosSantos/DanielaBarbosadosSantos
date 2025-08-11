@@ -1,7 +1,7 @@
 Olá, eu sou a Daniela 👋
 
 ▫ Sobre mim
- Sou graduanda em Análise e Desenvolvimento de Sistemas pela Faculdade Cruzeiro do Sul e apaixonada por tecnologia. Estou em constante aprendizado nas áreas de desenvolvimento de software e segurança da informação, buscando evoluir minhas habilidades técnicas e práticas.
+ - Sou graduanda em Análise e Desenvolvimento de Sistemas pela Faculdade Cruzeiro do Sul e apaixonada por tecnologia. Estou em constante aprendizado nas áreas de desenvolvimento de software e segurança da informação, buscando evoluir minhas habilidades técnicas e práticas.
 
 ▫ Experiência e competências
  - Experiência como Aprendiz em Varejo (Drogaria São Paulo) e Auxiliar Administrativo (Rehau S.A.), com foco em organização, atendimento e suporte operacional.
