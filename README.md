@@ -6,17 +6,15 @@
 * Com experiência em suporte administrativo e atendimento ao cliente, trago habilidades de organização, proatividade e comunicação para complementar meu aprendizado técnico.
 
 ## Habilidades(Em aprendizado) e Ferramentas 🛠️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="rails" width="40" height="40" style="max-width:100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 
 Ferramentas:
 
-* Git & GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 
-* Pacote Office (Excel intermediário)
-
-* Ferramentas de gestão de tarefas (Trello, Jira)
+<img src="https://github.com/user-attachments/assets/3384db9f-77b2-4f4e-b228-06e38df60573" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 
 ## Soft Skills:
 
@@ -45,11 +43,6 @@ Aqui você encontrará alguns dos meus projetos. Fique à vontade para explorar 
 ## Conecte-se comigo 💬
 <a href="https://www.linkedin.com/in/daniela-barbosa-a45652341/" target=" _black">
 <img alight="center" alt="daniela-linkedin" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-<a/>
-
-
-<a href="https://github.com/DanielaBarbosadosSantos" target=" _black">
-<img alight="center" alt="daniela-github" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 <a/>
 
 * 📩 danielabarbosa.090@gmail.com
