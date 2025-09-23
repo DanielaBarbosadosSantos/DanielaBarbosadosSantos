@@ -9,6 +9,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="center" width="40" height="40" style="max-width:100%;"> </img>
 
 Ferramentas:
 
@@ -39,6 +41,7 @@ Estou em busca de uma oportunidade como estagiária na área de TI, onde eu poss
 Aqui você encontrará alguns dos meus projetos. Fique à vontade para explorar e dar seu feedback!
 
 *  Jessi-Construction - Apresentar construções criativas e detalhadas feitas por Jessi Construction no jogo The Sims 4
+*  Chatbot-de-Atendimento - Sistema de atendimento via terminal com menu interativo, contagem de acessos e exibição de estatísticas.
 
 ## Conecte-se comigo 💬
 <a href="https://www.linkedin.com/in/daniela-barbosa-a45652341/" target=" _black">
