@@ -1,7 +1,7 @@
 # Olá, eu sou a Daniela! 👋
 
 ## Sobre mim 👩‍💻
-* Sou uma entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Meu objetivo é aplicar o conhecimento que venho adquirindo em projetos reais, buscando uma transição de carreira para a área de TI.
+* Sou uma entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Meu objetivo é aplicar o conhecimento que venho adquirindo em projetos reais.
 
 * Com experiência em suporte administrativo e atendimento ao cliente, trago habilidades de organização, proatividade e comunicação para complementar meu aprendizado técnico.
 
