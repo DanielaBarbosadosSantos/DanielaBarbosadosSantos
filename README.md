@@ -40,9 +40,13 @@ Estou em busca de uma oportunidade como estagiária na área de TI, onde eu poss
 ## Meus Projetos ✨
 Aqui você encontrará alguns dos meus projetos. Fique à vontade para explorar e dar seu feedback!
 
-*  **Jessi-Construction -** Apresentar construções criativas e detalhadas feitas por Jessi Construction no jogo The Sims 4
-*  **Chatbot-de-Atendimento -** Sistema de atendimento via terminal com menu interativo, contagem de acessos e exibição de estatísticas.
-*  **Conecta ONG -**  Plataforma web construída para conectar ONGs verificadas a voluntários e doadores. utiliza arquitetura modular e padrões modernos de Front-end.
+* [**Sistema de Controle de Eventos e Inscrições**](https://github.com/DanielaBarbosadosSantos/Sistema-de-Controle-de-Eventos.git) - Projeto completo de **Modelagem de Banco de Dados (3FN)**, incluindo Diagrama Entidade-Relacionamento e scripts SQL (DDL/DML) para gestão de inscrições e controle pós-evento.
+
+* [**Jessi-Construction**](https://github.com/DanielaBarbosadosSantos/Jessi-Construction) - Apresentar construções criativas e detalhadas feitas por Jessi Construction no jogo The Sims 4
+
+* [**Chatbot-de-Atendimento**](https://github.com/DanielaBarbosadosSantos/Chatbot-de-Atendimento) - Sistema de atendimento via terminal com menu interativo, contagem de acessos e exibição de estatísticas.
+
+* [**Conecta ONG**](https://github.com/DanielaBarbosadosSantos/Conecta-ONG) - Plataforma web construída para conectar ONGs verificadas a voluntários e doadores. utiliza arquitetura modular e padrões modernos de Front-end.
 
 ## Conecte-se comigo 💬
 <a href="https://www.linkedin.com/in/daniela-barbosa-a45652341/" target=" _black">
